@@ -1,0 +1,4 @@
+storer: "gorm"
+json_path: "contacts.json"
+db_path: "contacts.db"
+
